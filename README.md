@@ -3,7 +3,7 @@
 A small full-stack task-tracking app built with **NestJS + Prisma** (backend) and
 **React + Redux Toolkit + MUI** (frontend).
 
-> Total time spent: ~4 hours
+> Total time spent: 4 hours
 
 ## Stack
 
